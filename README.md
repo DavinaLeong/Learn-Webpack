@@ -1,13 +1,13 @@
 # Learn Webpack 4
 
 ## About
-Me following this [tutorial](https://www.youtube.com/watch?v=deyxI-6C2u4) on Webpack4 by Traversy Media.
+Me following this [tutorial](https://www.youtube.com/watch?v=deyxI-6C2u4) on Webpack 4 by Traversy Media.
 
 
 ## Probable Errors and Possible Resolutions
 *Note: This is NOT a conclusive list, just the list of errors I encountered while doing the tutorial.*
 
-### You may need an appropriate loader...
+### Error: You may need an appropriate loader...
 **Full error:**
 ```javascript
 ERROR in ./src/index.js 5:16
@@ -37,7 +37,7 @@ Kill webpack and re-run `npm start`.
 
 ---
 
-### Cannot find module '@babel/core'...
+### Error: Cannot find module '@babel/core'...
 **Full error:**
 ```javascript
 ERROR in ./src/index.js
