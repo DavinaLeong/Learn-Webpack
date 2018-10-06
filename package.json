@@ -1,0 +1,23 @@
+{
+  "name": "learn-webpack",
+  "version": "0.0.0",
+  "description": "Me exploring and learning Webpack 4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavinaLeong/learn-webpack.git"
+  },
+  "keywords": [
+    "webpack4",
+    "learning"
+  ],
+  "author": "Davina Leong <davina.leong@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavinaLeong/learn-webpack/issues"
+  },
+  "homepage": "https://github.com/DavinaLeong/learn-webpack#readme"
+}
