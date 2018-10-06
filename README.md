@@ -59,10 +59,12 @@ Error: Cannot find module '@babel/core'
 
 
 **Probable cause:**
+
 Outdated Babel packages.
 
 
 **Probable resolution"**
+
 Uninstall all Babel packages except `babel-loader` and reinstall them as `@babel/<babel-package>`.
 
 Commands:
